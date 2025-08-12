@@ -47,8 +47,8 @@ Unloads drivers.
 
 Logs system shutdown.
 
-*drivers/ and hal/*
-**driver_base.h:-**
+**drivers/ and hal/**
+driver_base.h:-
 
 Abstract interface class DeviceDriver.
 
