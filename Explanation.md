@@ -60,7 +60,7 @@ keyboard_hal.* / battery_hal.*:
 
 Contain hardware abstraction logic (simulate I/O).
 
-💤 acpi/
+
 **acpi_manager:-**
 
 Simulates system sleep/wakeup.
